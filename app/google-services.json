@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "632506548397",
+    "project_id": "abdullah-f706d",
+    "storage_bucket": "abdullah-f706d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:632506548397:android:120c1888a04006af1c4624",
+        "android_client_info": {
+          "package_name": "com.example.akkkkk"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGyljqIaPxh2-YAGyU7cSh8UlRPT3IaL8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
