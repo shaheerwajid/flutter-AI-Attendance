@@ -12,3 +12,19 @@ GeneratedPluginRegistrant.java
 key.properties
 **/*.keystore
 **/*.jks
+
+# Firebase and Google Services (contains API keys)
+**/google-services.json
+**/GoogleService-Info.plist
+
+# Build files
+/build/
+/app/build/
+*.iml
+.idea/
+.vscode/
+
+# Environment and config files
+.env
+.env.local
+*.log
